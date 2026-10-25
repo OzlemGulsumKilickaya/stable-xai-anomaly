@@ -27,7 +27,6 @@ The pipeline was run as Kaggle notebooks (NVIDIA Tesla T4). Each notebook reads 
 | `NB5.ipynb` | KernelSHAP attributions for the stability analysis | SHAP value arrays |
 | `NB6.ipynb` | Stability (paired Spearman) and faithfulness (deletion-AUC) computation | Per-pair and per-instance metric arrays, result tables |
 | `nb7_8.ipynb` | Significance testing (Mann–Whitney U, BH-FDR, rank-biserial effect sizes), paper tables and figures | Tables 2–4, figures |
-| `robustness/nb6_robustness_cells.py` | Optional checks described as future work (score-normalised deletion-AUC, random-order baseline, paired Wilcoxon) | Robustness CSVs |
 
 ## Data
 
