@@ -63,8 +63,8 @@ In-distribution benign data are split 70/15/15 into training, ID, and ID2 subset
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/OzlemGulsumKilickaya/stable-xai-anomaly.git
+cd stable-xai-anomaly
 pip install -r requirements.txt
 ```
 
