@@ -1,0 +1,10 @@
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+torch
+captum==0.9.0
+shap==0.51.0
+matplotlib
+joblib
